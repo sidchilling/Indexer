@@ -1,0 +1,4 @@
+http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml
+http://www.philly.com/mld/philly/news/rss.xml
+http://www.boston.com/news/globe/a-z?mode=rss_10
+http://seattletimes.nwsource.com/rss/home.xml
