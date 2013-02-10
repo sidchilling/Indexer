@@ -1,5 +1,3 @@
-# Read all the stop words and store them in a list
-
 import requests
 from BeautifulSoup import BeautifulSoup
 import nltk
